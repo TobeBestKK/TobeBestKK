@@ -56,6 +56,5 @@
 | :---- | :----: |
 | <img src="https://github.githubassets.com/favicons/favicon.svg" width="17" alt="GitHub"> [GitHub](https://github.com/TobeBestKK) | <img src="https://img.shields.io/badge/Profile-TobeBestKK-181717?style=flat-square&logo=github" alt="GitHub badge"> |
 | <img src="https://gitee.com/favicon.ico" width="17" alt="Gitee"> [Gitee](https://gitee.com/tobebestkk/projects) | <img src="https://img.shields.io/badge/Projects-Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" alt="Gitee badge"> |
-| <img src="https://github.githubassets.com/favicons/favicon.svg" width="17" alt="GitHub"> [GitHub Education Notes](https://github.com/TobeBestKK/Share-Experience-For-Github.edu) | <img src="https://img.shields.io/github/stars/TobeBestKK/Share-Experience-For-Github.edu?style=flat-square&label=stars" alt="GitHub Education stars"> |
 
 ---
