@@ -49,8 +49,8 @@
 
 ### ⌨ Some websites about me
 
-<img src='https://github.com/TobeBestKK/TobeBestKK/blob/main/github-contribution-grid-snake.svg' width=450 align='right'>
-<img src='https://github.com/TobeBestKK/TobeBestKK/blob/main/github-contribution-grid-snake-dark.svg#gh-light-mode-only' width=450 align='right'>
+<img src='https://github.com/TobeBestKK/TobeBestKK/blob/main/github-contribution-grid-snake.svg#gh-light-mode-only' width=450 align='right'>
+<img src='https://github.com/TobeBestKK/TobeBestKK/blob/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only' width=450 align='right'>
 
 | Site | Badge |
 | :---- | :----: |
