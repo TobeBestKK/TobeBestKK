@@ -5,14 +5,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=calm#gh-dark-mode-only"
+    srcset="https://github-stats-extended.vercel.app/api?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=calm#gh-dark-mode-only"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=default#gh-light-mode-only"
+    srcset="https://github-stats-extended.vercel.app/api?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=default#gh-light-mode-only"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=calm" width="350" align="right" alt="Top languages">
+  <img src="https://github-stats-extended.vercel.app/api?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=calm" width="350" align="right" alt="Top languages">
 </picture>
 
 ### 📰 Basic info:
