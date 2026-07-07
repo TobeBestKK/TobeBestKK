@@ -15,7 +15,6 @@
 - 🔗 **Gitee:** [gitee.com/tobebestkk/projects](https://gitee.com/tobebestkk/projects)
 - 📚 **Style:** Build it, document it, then make future reuse painless
 
-<img align="right" width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TobeBestKK&theme=default" alt="GitHub stats">
 
 ### 💪 Abilities:
 
