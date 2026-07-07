@@ -19,8 +19,6 @@
 
 ### 💪 Abilities:
 
-<img align="right" width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TobeBestKK&theme=default" alt="GitHub stats">
-
 - 🧩 Full-stack dashboard development with `Vue 3`, `TypeScript`, `Spring Boot`, and `MySQL`
 - 🚚 Backend and microservice practice with `Spring Cloud Gateway`, `Dubbo`, `RabbitMQ`, and `Nacos`
 - 📱 Mobile app prototyping with `Flutter`, `Dart`, local state, and REST APIs
