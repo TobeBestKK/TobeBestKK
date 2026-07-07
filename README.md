@@ -4,9 +4,9 @@
 
 ---
 
-<img align="right" width="330" src="https://github-stats-extended.vercel.app/api?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=default" alt="Top languages">
-
 ### 📰 Basic info:
+
+<img align="right" width="330" src="https://github-stats-extended.vercel.app/api?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=default" alt="Top languages">
 
 - 👤 **Handle:** TobeBestKK
 - 🧭 **Focus:** Full-stack admin systems, embedded UI, Flutter prototypes, and automation notes
@@ -15,8 +15,11 @@
 - 🔗 **Gitee:** [gitee.com/tobebestkk/projects](https://gitee.com/tobebestkk/projects)
 - 📚 **Style:** Build it, document it, then make future reuse painless
 
+<br clear="right">
 
 ### 💪 Abilities:
+
+<img align="right" width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TobeBestKK&theme=default" alt="GitHub stats">
 
 - 🧩 Full-stack dashboard development with `Vue 3`, `TypeScript`, `Spring Boot`, and `MySQL`
 - 🚚 Backend and microservice practice with `Spring Cloud Gateway`, `Dubbo`, `RabbitMQ`, and `Nacos`
@@ -24,6 +27,8 @@
 - 🔌 Embedded GUI experiments with `C`, `AT32F435/437`, `LVGL`, and `Keil MDK`
 - 🐍 Automation and contribution work around Python image-recognition workflows
 - 📝 Project notes that are clear enough for future me to reopen without pain
+
+<br clear="right">
 
 ### 🧭 Project shelf
 
@@ -35,9 +40,7 @@
 - 🎛 **Frontend Template:** [NiceAdmin-Bootstrap](https://github.com/TobeBestKK/NiceAdmin-Bootstrap)
 - 📚 **Docs / Notes:** [Share-Experience-For-Github.edu](https://github.com/TobeBestKK/Share-Experience-For-Github.edu), [small-appliance](https://github.com/TobeBestKK/small-appliance)
 
-<img align="right" width="390" src="./github-contribution-grid-snake.svg" alt="GitHub contribution snake">
-
-### ⌨ Some websites about me
+### ⌨ Some websites about me <img align="right" width="390" src="./github-contribution-grid-snake.svg" alt="GitHub contribution snake">
 
 - <img src="https://github.githubassets.com/favicons/favicon.svg" width="17" alt="GitHub"> [GitHub](https://github.com/TobeBestKK) <img src="https://img.shields.io/badge/Profile-TobeBestKK-181717?style=flat-square&logo=github" alt="GitHub badge">
 - <img src="https://gitee.com/favicon.ico" width="17" alt="Gitee"> [Gitee](https://gitee.com/tobebestkk/projects) <img src="https://img.shields.io/badge/Projects-Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" alt="Gitee badge">
