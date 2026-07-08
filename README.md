@@ -38,10 +38,10 @@
 - 🎛 **Frontend Template:** [NiceAdmin-Bootstrap](https://github.com/TobeBestKK/NiceAdmin-Bootstrap)
 - 📚 **Docs / Notes:** [Share-Experience-For-Github.edu](https://github.com/TobeBestKK/Share-Experience-For-Github.edu), [small-appliance](https://github.com/TobeBestKK/small-appliance)
 
-### ⌨ Some websites about me <img align="right" width="390" src="./github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+### ⌨ Find me <img align="right" width="390" src="./github-contribution-grid-snake.svg" alt="GitHub contribution snake">
 
-- <img src="https://github.githubassets.com/favicons/favicon.svg" width="17" alt="GitHub"> [GitHub](https://github.com/TobeBestKK) <img src="https://img.shields.io/badge/Profile-TobeBestKK-181717?style=flat-square&logo=github" alt="GitHub badge">
-- <img src="https://gitee.com/favicon.ico" width="17" alt="Gitee"> [Gitee](https://gitee.com/tobebestkk) <img src="https://img.shields.io/badge/Projects-Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" alt="Gitee badge">
+[![GitHub](https://img.shields.io/badge/GitHub-TobeBestKK-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TobeBestKK)
+[![Gitee](https://img.shields.io/badge/Gitee-Projects-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/tobebestkk/projects)
 
 <br clear="right">
 
