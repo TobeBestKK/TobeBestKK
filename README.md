@@ -12,7 +12,7 @@
 - 🧭 **Focus:** Full-stack admin systems, embedded UI, Flutter prototypes, and automation notes
 - 🌏 **Time zone:** `UTC+8`
 - 🔗 **GitHub:** [github.com/TobeBestKK](https://github.com/TobeBestKK)
-- 🔗 **Gitee:** [gitee.com/tobebestkk/projects](https://gitee.com/tobebestkk/projects)
+- 🔗 **Gitee:** [gitee.com/tobebestkk](https://gitee.com/tobebestkk)
 - 📚 **Style:** Build it, document it, then make future reuse painless
 
 <br clear="right">
@@ -41,7 +41,7 @@
 ### ⌨ Find me <img align="right" width="390" src="./github-contribution-grid-snake.svg" alt="GitHub contribution snake">
 
 [![GitHub](https://img.shields.io/badge/GitHub-TobeBestKK-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TobeBestKK)
-[![Gitee](https://img.shields.io/badge/Gitee-Projects-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/tobebestkk/projects)
+[![Gitee](https://img.shields.io/badge/Gitee-Projects-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/tobebestkk)
 
 <br clear="right">
 
