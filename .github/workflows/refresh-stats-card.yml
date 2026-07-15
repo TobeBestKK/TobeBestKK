@@ -1,0 +1,40 @@
+name: Refresh GitHub stats card
+
+on:
+  schedule:
+    # 北京时间每天 00:17 执行
+    # GitHub Actions 使用 UTC，这里 16:17 UTC = 北京时间 00:17
+    - cron: "17 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update stats card cache version
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          today="$(TZ=Asia/Shanghai date +%Y%m%d)"
+
+          sed -i -E "s/(&v=)[0-9]{8}/\1${today}/" README.md
+
+          if git diff --quiet -- README.md; then
+            echo "No README change is needed."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "chore: refresh stats card cache"
+          git push
