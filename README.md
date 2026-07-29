@@ -34,6 +34,7 @@
 - 🚚 **Microservice backend:** [tms-service](https://github.com/TobeBestKK/tms-service)
 - 📱 **Mobile + backend:** [suiwuyou-project](https://github.com/TobeBestKK/suiwuyou-project)
 - 🔌 **Embedded UI:** [14-AT32-LVGL-Nos-template](https://github.com/TobeBestKK/14-AT32-LVGL-Nos-template)
+- 🧹 **Embedded firmware:** [Airclean_board](https://github.com/TobeBestKK/Airclean_board)
 - 🐍 **Automation / Contribution:** [ok-wuthering-waves](https://github.com/TobeBestKK/ok-wuthering-waves)
 - 🎛 **Frontend Template:** [NiceAdmin-Bootstrap](https://github.com/TobeBestKK/NiceAdmin-Bootstrap)
 - 📚 **Docs / Notes:** [Share-Experience-For-Github.edu](https://github.com/TobeBestKK/Share-Experience-For-Github.edu), [small-appliance](https://github.com/TobeBestKK/small-appliance)
