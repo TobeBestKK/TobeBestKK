@@ -6,38 +6,41 @@
 
 ### 📰 Basic info:
 
-<img align="right" width="330" src="https://github-stats-extended.vercel.app/api?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=default&include_all_commits=true&v=20260820" alt="Top languages">
+<div style="display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;">
 
-- 👤 **Handle:** TobeBestKK
-- 🧭 **Focus:** Full-stack admin systems, embedded UI, Flutter prototypes, and automation notes
-- 🌏 **Time zone:** `UTC+8`
-- 🔗 **GitHub:** [github.com/TobeBestKK](https://github.com/TobeBestKK)
-- 🔗 **Gitee:** [gitee.com/tobebestkk](https://gitee.com/tobebestkk)
-- 📚 **Style:** Build it, document it, then make future reuse painless
+<div style="flex:1;min-width:240px;">
 
-<br clear="right">
+<ul style="list-style:none;padding-left:0;margin:0;line-height:1.8;">
+<li>🧭 <strong>Focus:</strong> Full-stack admin, embedded UI, Flutter &amp; automation</li>
+<li>🔗 <strong>Links:</strong> <a href="https://github.com/TobeBestKK">github.com/TobeBestKK</a> · <a href="https://gitee.com/tobebestkk">gitee.com/tobebestkk</a></li>
+<li>📚 <strong>Motto:</strong> Build, document, reuse — <code>UTC+8</code></li>
+</ul>
+
+</div>
+
+<img width="330" src="https://github-stats-extended.vercel.app/api?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=default&include_all_commits=true&v=20260820" alt="Top languages" style="max-width:100%;">
+
+</div>
 
 ### 💪 Abilities:
 
-- 🧩 Full-stack dashboard development with `Vue 3`, `TypeScript`, `Spring Boot`, and `MySQL`
-- 🚚 Backend and microservice practice with `Spring Cloud Gateway`, `Dubbo`, `RabbitMQ`, and `Nacos`
-- 📱 Mobile app prototyping with `Flutter`, `Dart`, local state, and REST APIs
-- 🔌 Embedded GUI experiments with `C`, `AT32F435/437`, `LVGL`, and `Keil MDK`
-- 🐍 Automation and contribution work around Python image-recognition workflows
-- 📝 Project notes that are clear enough for future me to reopen without pain
+- 🧩 `Vue 3` / `TypeScript` / `Spring Boot` / `MySQL` — full-stack dashboards
+- 🚚 `Spring Cloud Gateway` / `Dubbo` / `RabbitMQ` / `Nacos` — microservices
+- 📱 `Flutter` / `Dart` — prototypes with local state & REST APIs
+- 🔌 `C` / `AT32F435/437` / `LVGL` / `Keil MDK` — embedded GUI & firmware
+- 🐍 `Python` — image-recognition automation & contributions
 
 <br clear="right">
 
 ### 🧭 Project shelf
 
-- 📊 **Full-stack dashboard:** [student-score-admin-system](https://github.com/TobeBestKK/student-score-admin-system)
-- 🚚 **Microservice backend:** [tms-service](https://github.com/TobeBestKK/tms-service)
-- 📱 **Mobile + backend:** [suiwuyou-project](https://github.com/TobeBestKK/suiwuyou-project)
+- 📊 **Dashboard:** [student-score-admin-system](https://github.com/TobeBestKK/student-score-admin-system)
+- 🚚 **Microservices:** [tms-service](https://github.com/TobeBestKK/tms-service)
+- 📱 **Mobile:** [suiwuyou-project](https://github.com/TobeBestKK/suiwuyou-project)
 - 🔌 **Embedded UI:** [14-AT32-LVGL-Nos-template](https://github.com/TobeBestKK/14-AT32-LVGL-Nos-template)
-- 🧹 **Embedded firmware:** [Airclean_board](https://github.com/TobeBestKK/Airclean_board)
-- 🐍 **Automation / Contribution:** [ok-wuthering-waves](https://github.com/TobeBestKK/ok-wuthering-waves)
-- 🎛 **Frontend Template:** [NiceAdmin-Bootstrap](https://github.com/TobeBestKK/NiceAdmin-Bootstrap)
-- 📚 **Docs / Notes:** [Share-Experience-For-Github.edu](https://github.com/TobeBestKK/Share-Experience-For-Github.edu), [small-appliance](https://github.com/TobeBestKK/small-appliance)
+- 🧹 **Firmware:** [Airclean_board](https://github.com/TobeBestKK/Airclean_board)
+- 🎛 **Template:** [NiceAdmin-Bootstrap](https://github.com/TobeBestKK/NiceAdmin-Bootstrap)
+- 📚 **Docs:** [Share-Experience-For-Github.edu](https://github.com/TobeBestKK/Share-Experience-For-Github.edu), [small-appliance](https://github.com/TobeBestKK/small-appliance)
 
 ### ⌨ Find me <img align="right" width="390" src="./github-contribution-grid-snake.svg" alt="GitHub contribution snake">
 
