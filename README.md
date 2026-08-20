@@ -6,21 +6,13 @@
 
 ### 📰 Basic info:
 
-<div style="display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;">
+<img align="right" width="330" src="https://github-stats-extended.vercel.app/api?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=default&include_all_commits=true&v=20260820" alt="Top languages">
 
-<div style="flex:1;min-width:240px;">
+- 🧭 **Focus:** Full-stack admin, embedded UI, Flutter & automation
+- 🔗 **Links:** [github.com/TobeBestKK](https://github.com/TobeBestKK) · [gitee.com/tobebestkk](https://gitee.com/tobebestkk)
+- 📚 **Motto:** Build, document, reuse — `UTC+8`
 
-<ul style="list-style:none;padding-left:0;margin:0;line-height:1.8;">
-<li>🧭 <strong>Focus:</strong> Full-stack admin, embedded UI, Flutter &amp; automation</li>
-<li>🔗 <strong>Links:</strong> <a href="https://github.com/TobeBestKK">github.com/TobeBestKK</a> · <a href="https://gitee.com/tobebestkk">gitee.com/tobebestkk</a></li>
-<li>📚 <strong>Motto:</strong> Build, document, reuse — <code>UTC+8</code></li>
-</ul>
-
-</div>
-
-<img width="330" src="https://github-stats-extended.vercel.app/api?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=default&include_all_commits=true&v=20260820" alt="Top languages" style="max-width:100%;">
-
-</div>
+<br clear="right">
 
 ### 💪 Abilities:
 
