@@ -6,7 +6,7 @@
 
 ### 📰 Basic info:
 
-<img align="right" width="330" src="https://github-stats-extended.vercel.app/api?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=default&include_all_commits=true&v=20260901" alt="Top languages">
+<img align="right" width="330" src="https://github-stats-extended.vercel.app/api?username=TobeBestKK&hide=html&layout=compact&border_radius=10&theme=default&include_all_commits=true&v=20260902" alt="Top languages">
 
 - 🧭 **Focus:** Full-stack admin, embedded UI, Flutter & automation
 - 🔗 **Links:** [github.com/TobeBestKK](https://github.com/TobeBestKK) · [gitee.com/tobebestkk](https://gitee.com/tobebestkk)
